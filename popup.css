@@ -1,0 +1,26 @@
+body {
+  overflow: hidden;
+  font-family: "Arial Black";
+  text-align: center;
+  margin: 0em;
+  padding: 0em;
+  background: white;
+  color: purple;
+}
+
+h3 {
+  font-style: italic;
+  color: grey
+}
+
+.menu {
+  cursor: pointer;
+  padding: 0.4em 3px;
+  width: 10em;
+  margin-top: 1px;
+  background: #d8d8e0;
+}
+
+.menu:hover {
+  background: #aaaaaa;
+}
