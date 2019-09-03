@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Kitten Around!",
     "short_name": "Kitten Around",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Turn every image into a kitten!",
 
     "icons": {
@@ -20,11 +20,7 @@
         "default_popup": "popup.html"
     },
     "permissions": [
-        "declarativeContent",
-          "storage",
-          "activeTab",
-          "tabs",
-          "<all_urls>"
+          "activeTab"
     ],
 
     "content_scripts": [

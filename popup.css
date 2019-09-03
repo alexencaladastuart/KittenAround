@@ -5,12 +5,12 @@ body {
   margin: 0em;
   padding: 0em;
   background: white;
-  color: purple;
+  color: #800080;
 }
 
 h3 {
   font-style: italic;
-  color: grey
+  color: #808080
 }
 
 .menu {
