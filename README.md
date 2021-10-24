@@ -4,31 +4,38 @@ Kitten Around! is a Google Chrome extension that allows users to replace the ima
 
 ## Getting Started
 
-These instructions will allow you to install and use our Chrome extension on your computer.
-
 ### Prerequisites
 
-Google Chrome
+* Google Chrome
 
 ### Installing Kitten Around!
 
-* Download the kittenAround folder
-* Open Google Chrome
-* Navigate to chrome://extensions
+Now available on the Chrome Web Store [here](https://chrome.google.com/webstore/detail/kitten-around/onmdhpmlefhjpeekonfelalkhakfhhna) or search for "Kitten Around!"
+
+Or install manually:
+
+* Download and extract the ZIP folder of this repository.
+* Open Google Chrome.
+* Navigate to chrome://extensions.
 * In the top right corner of the Extensions page select 'Developer Mode.'
 * In the top left corner select 'Load Unpacked.'
-* Select the kittenAround folder.
-* A cat icon should appear in the Google Chrome in the top right corner.
+* Select the KittenAround folder.
+
+A cat icon should appear in the extensions toolbar in the top right corner of your browser.
+You may need to pin the icon from the extensions menu.
+
+### Using Kitten Around!
+
 * Browse the internet as usual.
-* Click the extension and select an animal. The images on your current webpage will change to pictures of that animal.
+* Click on the extension icon and select an animal. The images on your current webpage will be changed to pictures of that animal.
 
 ## Running the tests
 
-Test the program by visiting various websites that use images.
+Test the extension by visiting various websites that use images.
 
 ## Built With
 
-* [CS50 IDE](https://id.cs50.net/authorize?state=foo&response_type=code&redirect_uri=https%3A%2F%2Fcs50.io%2Fauth%2Fcs50_callback&scope=openid%20profile%20email&client_id=prod) - The web framework used
+* [CS50 IDE](https://ide.cs50.io/) - The online integrated development environment used.
 
 ## Authors
 
